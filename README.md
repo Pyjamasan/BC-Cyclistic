@@ -1,4 +1,4 @@
-# BC-Cyclistic
+# (WCS) BC-Cyclistic 
 
 Cyclistic est une entreprise de partage de vélos à Chicago, qui a depuis élargi son offre pour inclure une flotte de 5 824 vélos géolocalisés stationnés à 692 emplacements à travers Chicago.
 
